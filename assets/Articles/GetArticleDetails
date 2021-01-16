@@ -1,0 +1,22 @@
+ {
+    "articleId": 1,
+    "catagoryId": 8,
+    "titleEn": "مثل الزارع ",
+    "titleAr": "مثل الزارع ",
+    "shortDescripAr": "طريقة بسيطة وسهلة لشرح مثل الزارع للاطفل مع وسيلة ايضاح بتجربة عملية ",
+    "shortDescripEn": "طريقة بسيطة وسهلة لشرح مثل الزارع للاطفل مع وسيلة ايضاح بتجربة عملية ",
+    "image": "assets/images/image.jpg",
+    "numberOfViews": null,
+    "showOnHomeSlider": false,
+    "rating": null,
+    "isActive": true,
+    "isDeleted": false,
+    "createdBy": null,
+    "creationDate": "2019-08-08T00:33:05",
+    "modifiedBy": null,
+    "modifiecationDate": "2019-08-12T00:47:10.3",
+    "catagory": null,
+    "articlesRatings": [],
+    "articlesSections": []
+  }
+  
